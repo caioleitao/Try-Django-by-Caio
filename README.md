@@ -1,1 +1,1 @@
-# Try-Django-by-Caio
+# Try Django by Caio
